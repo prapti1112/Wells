@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "340829167691",
+    "firebase_url": "https://well-8e522.firebaseio.com",
+    "project_id": "well-8e522",
+    "storage_bucket": "well-8e522.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340829167691:android:a74638a5a5b00eb4726dce",
+        "android_client_info": {
+          "package_name": "com.example.well"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340829167691-h7rgs765728q96a4v32jqqo8h1e35sqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr66npXJ7n4AtjamVWEg-oi4gZ3bqgdts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340829167691-h7rgs765728q96a4v32jqqo8h1e35sqj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
